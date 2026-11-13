@@ -148,7 +148,7 @@ onUnmounted(() => {
 }
 
 .hero .hero-image {
-    width: 130%;
+    width: 90%;
     height: 110%;
     animation: fade 2s ease;
     border: #db491900 solid .2rem;
